@@ -1,4 +1,6 @@
-# PRODIGY_ST_01
+Task_01_Calculator_Test_Cases.md
+- [Click here to view the test cases](Task_01_Calculator_Test_Cases.md)
+
 # Prodigy InfoTech Internship - Software Testing
 
 ## Task-01: Write Test Cases for a Simple Calculator Application
