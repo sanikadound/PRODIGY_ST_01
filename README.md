@@ -43,4 +43,4 @@ Test cases should cover:
 
 ---
 
-### 🔗 GitHub Repository Naming Convention
+
